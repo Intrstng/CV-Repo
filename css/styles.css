@@ -293,7 +293,9 @@ top: 170px;
 .form__content input:hover {
   border: 1px solid #6b9ce0
 }
-
+.form__textarea:hover {
+  border: 1px solid #6b9ce0
+}
 
 .form__content input::placeholder,
 .form__textarea::placeholder {
